@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Software Developer at Softopia From Bangladesh</h3>
 
  <img align="left" alt="Coding" width="600" height="300" src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif">
- <img align="right" alt="Coding" width="400"   src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+ <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <br/>
 
