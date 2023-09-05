@@ -1,4 +1,6 @@
-[![MasterHead](https://www.canva.com/design/DAFiaKUaRzo/WMMKWF8Pf5SCwQr3Ne8yhw/edit?utm_content=DAFiaKUaRzo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://codegrills.in)
+<h1 align="center">
+ <img src="https://img.freepik.com/free-photo/golden-monstera-leaves-background-design-resource_53876-143096.jpg" />
+</h1>
 <h1 align="center">Hi 👋, I'm MD. Rakibul Islam</h1>
 <h3 align="center">A passionate Software Developer at Softopia.</h3>
 <img align="left" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif">
