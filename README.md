@@ -1,10 +1,13 @@
 <h1 align="center">
- <img src="https://img.freepik.com/free-photo/golden-monstera-leaves-background-design-resource_53876-143096.jpg" />
+ <img src="https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" width="1400" height="500"/>
 </h1>
 <h1 align="center">Hi 👋, I'm MD. Rakibul Islam</h1>
-<h3 align="center">A passionate Software Developer at Softopia.</h3>
-<img align="left" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif">
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h3 align="center">A passionate Software Developer at Softopia From Bangladesh</h3>
+
+ <img align="left" alt="Coding" width="600" height="300" src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif">
+ <img align="right" alt="Coding" width="400"   src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib-cloud" alt="rakib-cloud" /></a> </p>
 
