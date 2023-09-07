@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm MD. Rakibul Islam</h1>
 <h3 align="center">A passionate Software Developer at Softopia From Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rakib-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="Rakib" /> </p>
  <img align="left" alt="Coding" width="400"  src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif">
  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
