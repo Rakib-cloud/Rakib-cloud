@@ -5,8 +5,8 @@
 <h3 align="center">A passionate Software Developer at Softopia From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rakib-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="Rakib" /> </p>
- <img align="left" alt="Coding" width="800" height="300" src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif">
- <img align="left" alt="Coding" width="800" height="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+ <img align="left" alt="Coding" width="850" height="300" src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif">
+ <img align="left" alt="Coding" width="850" height="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib-cloud" alt="rakib-cloud" /></a> </p>
 
