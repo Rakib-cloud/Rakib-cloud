@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Selopia Ecommerce](https://testmerch.selopia.com/ ,https://woman.selopia.com/)
+- 🔭 I’m currently working on [Shukhee](https://shukhee.com/)
 
 - 🌱 I’m currently learning **Redux,Next js**
 
