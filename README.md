@@ -33,8 +33,6 @@
 ### 🌐 Portfolio & Profiles  
 
 - 🌍 Portfolio: [https://rakib60089.netlify.app/](https://rakib60089.netlify.app/)  
-- 📝 Articles: [Thesis & Research Support](https://www.facebook.com/thesisAndresearchSupport)  
-- 📄 Resume: [Google Drive Link](https://drive.google.com/file/d/12sLDQrAU5p-QoP7wDSQQAQ8dc-YsKj9s/view?usp=sharing)  
 - 📫 Email: **rakib.cse.uiu@gmail.com**
 
 ---
