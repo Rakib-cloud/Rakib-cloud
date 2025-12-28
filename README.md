@@ -32,7 +32,7 @@
 
 ### 🌐 Portfolio & Profiles  
 
-- 🌍 Portfolio: [https://rakib60089.netlify.app/](https://rakib60089.netlify.app/)  
+- 🌍 Portfolio: [https://rakibulislambabu.netlify.app/](https://rakibulislambabu.netlify.app/)  
 - 📫 Email: **rakib.cse.uiu@gmail.com**
 
 ---
