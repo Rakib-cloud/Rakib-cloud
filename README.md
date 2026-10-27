@@ -1,121 +1,209 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=180&section=header&text=MD.%20Rakibul%20Islam&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Software%20Developer%20%7C%20ACI%20Limited&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:38BDF8&height=200&section=header&text=MD.%20Rakibul%20Islam&fontSize=44&fontColor=F8FAFC&fontAlignY=32&desc=Software%20Engineer%20%40%20ACI%20Limited&descAlignY=52&descSize=18" width="100%" alt="banner"/>
 
-<p>
-  <a href="https://rakibulislambabu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/rakibul-islam-69a932173/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rakib.cse.uiu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Rakib-cloud&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="views"/>
-</p>
-
-</div>
-
----
-
-## About
-
-I build **in-house enterprise software** at [ACI Limited](https://www.aci-bd.com/) — the kind of systems a few hundred people depend on every working day. My work sits across the stack: React and Next.js on the front, Django and REST APIs on the back, MySQL and MS SQL underneath.
-
-Before ACI I was at **Grameen HealthTech Ltd**, where I helped build **Shukhee**, a digital health platform serving patients across Bangladesh.
-
-I care about scalable UI architecture, clean API contracts, and shipping things people actually use. Outside of code, I think a lot about product management, SaaS pricing models, and how engineering decisions show up in sales conversations.
-
-| | |
-|---|---|
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Full Stack Software Developer @ ACI Limited |
-| **Focus** | Enterprise web apps · REST API design · Scalable frontend architecture |
-| **Learning** | Advanced Redux · Next.js App Router · Backend architecture design |
-| **Open to** | CMS & SaaS product collaboration |
-
----
-
-## Experience
-
-| | Role | Focus |
-|---|---|---|
-| **ACI Limited** | Full Stack Software Developer | Enterprise in-house solutions — React, Next.js, Django, MySQL, MS SQL |
-| **Grameen HealthTech Ltd** | Software Developer | **Shukhee** — digital health platform, frontend & API integration |
-
----
-
-## Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Data**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## Featured Work
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Shukhee** | Digital health platform — appointments, records, telemedicine | React · REST API |
-| *Project name* | *One line on the problem it solves* | *Stack* |
-| *Project name* | *One line on the problem it solves* | *Stack* |
-
-> Replace the placeholder rows with two repos you're proud of, then pin them on your profile.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rakib-cloud&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-cloud&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages"/>
-
-<img width="80%" src="https://streak-stats.demolab.com/?user=Rakib-cloud&hide_border=true&theme=tokyonight" alt="streak"/>
-
-</div>
-
----
-
-## Let's Talk
-
-Happy to chat about **React architecture, Tailwind, API design, Django, or taking a SaaS idea from sketch to shipped**.
-
-- 🌐 **Portfolio** — [rakibulislambabu.netlify.app](https://rakibulislambabu.netlify.app/)
-- 💼 **LinkedIn** — [rakibul-islam-69a932173](https://www.linkedin.com/in/rakibul-islam-69a932173/)
-- 📫 **Email** — [rakib.cse.uiu@gmail.com](mailto:rakib.cse.uiu@gmail.com)
-
-<div align="center">
+<a href="https://rakibulislambabu.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+3.5%2B+Years;Django+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Next.js;Healthcare+Tech+%26+Enterprise+Systems;20%2B+Applications+Shipped+to+Production" alt="typing"/>
+</a>
 
 <br/>
 
-**Code. Create. Inspire.**
+<a href="https://rakibulislambabu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/md-rakibul-islam-69a932173/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:rakib.cse.uiu@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email"/></a>
+<a href="https://github.com/Rakib-cloud"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0D1117" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=Rakib-cloud&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=120&section=footer" width="100%" alt="footer"/>
+</div>
+
+<!-- ===================== STATS STRIP ===================== -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/3.5%2B-Years_Experience-38BDF8?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/20%2B-Live_Applications-22D3EE?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/5%2B-Healthcare_Platforms-A78BFA?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/10%2B-Enterprise_Solutions-34D399?style=for-the-badge&labelColor=0D1117" alt=""/>
+
+</div>
+
+---
+
+## 🎯 About
+
+```ts
+const rakibul = {
+  role:     "Software Engineer @ ACI Limited",
+  location: "Dhaka, Bangladesh",
+  stack:    ["Django", "FastAPI", "React", "Next.js", "TypeScript", "MS SQL"],
+  domains:  ["Healthcare Tech", "Enterprise ERP", "E-commerce", "IoT"],
+  focus:    "Clean architecture · API optimization · Performance",
+  openTo:   ["SaaS collaboration", "CMS products", "Backend architecture"],
+};
+```
+
+I'm a **Full-Stack Engineer with 3.5+ years** of experience building scalable enterprise
+software. Right now I build and optimize **in-house enterprise systems at ACI Limited**
+with Django, FastAPI, MS SQL and MySQL — owning features end to end, from planning and
+architecture through implementation and deployment.
+
+Before ACI I spent two years deep in **healthcare technology**, contributing to nationwide
+HIS deployments: **Shukhee**, **Lifespring**, **Grameen Eye Hospital** and the **SSK**
+project. My work there spanned frontend development, admin dashboard design and product
+planning — turning product ideas into user-ready features.
+
+What I care about: **bridging frontend polish with backend performance**, and shipping
+things people actually depend on every working day.
+
+---
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css&theme=dark" alt="frontend"/>
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,mysql,mongodb,postgres&theme=dark" alt="backend"/>
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel,linux&theme=dark" alt="tooling"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MS_SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt=""/>
+<img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt=""/>
+<img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=BB4FFF" alt=""/>
+<img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt=""/>
+
+</div>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr><td width="180"><b>Oct 2025 — Present</b><br/><sub>🟢 Current</sub></td>
+<td><b>Software Engineer</b> · <a href="https://www.aci-bd.com/">ACI Limited</a><br/>
+<sub>In-house enterprise software with <b>Django, FastAPI, MS SQL, MySQL</b>. End-to-end product
+development from architecture to deployment; cross-functional delivery of reliable enterprise systems.</sub></td></tr>
+
+<tr><td><b>Jul 2024 — Sep 2025</b></td>
+<td><b>Software Engineer</b> · Grameen HealthTech Ltd <sub>(Shukhee)</sub><br/>
+<sub>Core module development for website and portal, incl. <b>Shukhee Sheba Kendra</b>. Contributed to
+<b>Lifespring</b>, <b>Grameen Eye Hospital</b> and the <b>SSK</b> project across frontend, admin dashboard
+design and product planning.</sub></td></tr>
+
+<tr><td><b>Dec 2022 — Jun 2024</b></td>
+<td><b>Software Engineer</b> · Selopia<br/>
+<sub>Built and maintained <b>8+ live applications</b> — ERP systems and multivendor e-commerce. Led frontend
+with <b>React, Next.js, TypeScript, Tailwind</b>; dynamic multi-layout UI systems for diverse client flows.</sub></td></tr>
+
+<tr><td><b>Aug 2022 — Nov 2022</b></td>
+<td><b>Software Engineer</b> · Bangladesh Digital Education Research Ltd<br/>
+<sub>ELMS and School Management System for <b>12 schools</b> under United Group — student management,
+attendance, results and class scheduling.</sub></td></tr>
+
+<tr><td><b>Nov 2021 — Jun 2022</b></td>
+<td><b>Research Associate & Head of Operations</b> · ANTT Robotics Ltd<br/>
+<sub><b>IoT</b> project solutions and software development; managed international clients.</sub></td></tr>
+</table>
+
+---
+
+## 🚀 Selected Work
+
+<details open>
+<summary><b>🏢 ACI Limited</b> — Enterprise Systems</summary>
+<br/>
+
+| Project | Description | Stack |
+|---|---|---|
+| **ACI Motors Foton Dealer Management** | Complete farm-mechanization solution for the Foton dealership network — scalable dealer management portal | `Django` `MS SQL` |
+| **ACI Blood Bank Management** | In-house system for blood donation tracking, inventory management and donor coordination | `Django` `FastAPI` |
+| **Project Monitor** | Internal project monitoring — management, resource allocation and progress tracking | `Django` `MySQL` |
+
+<sub>⚠️ These are internal systems on a private company network — no public links.</sub>
+
+</details>
+
+<details open>
+<summary><b>🏥 Grameen HealthTech</b> — Healthcare Platforms</summary>
+<br/>
+
+| Project | Description | Live |
+|---|---|---|
+| **Shukhee Healthcare Platform** | 360° healthcare — doctor consultations, specialist care, home labs, medicine delivery, caregiving | [shukhee.com](https://shukhee.com/en) |
+| **Lifespring International** | Mental health & wellness platform with 200+ professionals | [lifespringint.com](https://www.lifespringint.com/) |
+| **SSK Portal** <sub>(Shukhee Sheba Kendra)</sub> | Digital healthcare portal powered by GHL for complete healthcare solutions | [ssk.shukhee.com](https://ssk.shukhee.com/login) |
+| **Shukhee Hospital Management** | Hospital management system enhancing patient care and operational efficiency | [shukhee.health](https://shukhee.health/) |
+
+</details>
+
+<details>
+<summary><b>🛒 Selopia</b> — ERP, CRM & E-commerce</summary>
+<br/>
+
+| Project | Description | Live |
+|---|---|---|
+| **Chemist Pharmaceutical ERP** | Complex ERP — inventory, sales tracking, supplier coordination, business analytics | [chemisterp](https://chemisterp.selopian.us/auth/login) |
+| **Selopia E-commerce** | Multi-layout e-commerce platform with dynamic UI systems for custom business flows | [testecom](https://testecom.selopia.com) |
+| **E-commerce Admin Dashboard** | Multi-branch management, layout customization, delivery integration, media management | [testdash](https://testdash.selopia.com/login) |
+| **SalesForce CRM** | Employee management, task tracking, live location tracking, business operations | [salesforce](https://salesforce.selopia.com/login) |
+| **Smart Kaj Platform** | Community services marketplace — vendor management, service booking, corporate solutions | [smartkaj](https://smartkaj.selopian.us) |
+| **Smart Kaj Dashboard** | Admin panel for vendors, payments, services, customers and platform analytics | [smartdashboard](https://smartdashboard.selopian.us/auth/login) |
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rakib-cloud&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&ring_color=38BDF8" alt="stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-cloud&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Rakib-cloud&hide_border=true&background=0D1117&stroke=1F2937&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=F8FAFC" alt="streak"/>
+
+<br/><br/>
+
+<!-- Animated contribution snake — generated by the Action in .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/Rakib-cloud/Rakib-cloud/output/snake-dark.svg" width="100%" alt="contribution snake"/>
+
+</div>
+
+---
+
+## 🎓 Education
+
+| | |
+|---|---|
+| **BSc in Computer Science & Engineering** | United International University — *First Class* |
+| **HSC, Science** | Shohid Syed Nazrul Islam College — *GPA 5.00 / 5.00* |
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+<div align="center">
+
+## Let's Build Something
+
+Happy to talk **Django & FastAPI architecture, React/Next.js at scale, REST API design,**
+or taking a **SaaS idea from sketch to shipped**.
+
+<a href="https://rakibulislambabu.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-38BDF8?style=for-the-badge&labelColor=0D1117&color=0D1117" alt=""/></a>
+<a href="https://www.linkedin.com/in/md-rakibul-islam-69a932173/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117&color=0D1117" alt=""/></a>
+<a href="mailto:rakib.cse.uiu@gmail.com"><img src="https://img.shields.io/badge/📫_rakib.cse.uiu@gmail.com-EA4335?style=for-the-badge&labelColor=0D1117&color=0D1117" alt=""/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=450&lines=Code.+Create.+Inspire.;Thanks+for+stopping+by!+%E2%9C%A8" alt="outro"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0D1117&height=140&section=footer" width="100%" alt="footer"/>
 
 </div>
