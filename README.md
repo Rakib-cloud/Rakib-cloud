@@ -1,73 +1,121 @@
-<h1 align="center">
-  <img src="https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80" width="100%" height="auto" alt="Banner"/>
-</h1>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm <span style="color:#0ea5e9;">MD. Rakibul Islam</span></h1>
-<h3 align="center">🚀 Passionate Full Stack Software Developer | ACI Limited | Bangladesh</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=180&section=header&text=MD.%20Rakibul%20Islam&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Software%20Developer%20%7C%20ACI%20Limited&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rakib-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="Rakib-cloud" />
+<p>
+  <a href="https://rakibulislambabu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/rakibul-islam-69a932173/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rakib.cse.uiu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Rakib-cloud&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="views"/>
 </p>
 
----
-
-### 💡 About Me  
-
-👨‍💻 Currently working at **ACI Limited**, developing **in-house enterprise solutions** using **React, Next.js, Django (Python), MySQL, MS SQL, and REST APIs**.  
-💼 Previously worked at **Grameen HealthTech Ltd**, where I built **Shukhee** — a digital health platform.  
-⚙️ Skilled in **frontend technologies (React, Next.js, Tailwind CSS)** and experienced in **full-stack development** with API integration and database design.  
-📊 Strong understanding of **product management, SaaS model development, and sales strategy**.  
-🌱 Currently learning **Advanced Redux, Next.js App Router, and backend architecture design**.  
+</div>
 
 ---
 
-### 🧠 Current Focus  
+## About
 
-- 🔭 Working on enterprise-level software at **ACI Limited**  
-- 🌱 Deep diving into **full-stack development with Django and REST APIs**  
-- 👯 Open to collaborating on **CMS or SaaS products**  
-- 💬 Ask me about **React, Tailwind CSS, API design, and scalable UI architecture**  
+I build **in-house enterprise software** at [ACI Limited](https://www.aci-bd.com/) — the kind of systems a few hundred people depend on every working day. My work sits across the stack: React and Next.js on the front, Django and REST APIs on the back, MySQL and MS SQL underneath.
 
----
+Before ACI I was at **Grameen HealthTech Ltd**, where I helped build **Shukhee**, a digital health platform serving patients across Bangladesh.
 
-### 🌐 Portfolio & Profiles  
+I care about scalable UI architecture, clean API contracts, and shipping things people actually use. Outside of code, I think a lot about product management, SaaS pricing models, and how engineering decisions show up in sales conversations.
 
-- 🌍 Portfolio: [https://rakibulislambabu.netlify.app/](https://rakibulislambabu.netlify.app/)  
-- 📫 Email: **rakib.cse.uiu@gmail.com**
-
----
-
-### 🤝 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/rakibul-islam-69a932173/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/rakib60089" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
+| | |
+|---|---|
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Full Stack Software Developer @ ACI Limited |
+| **Focus** | Enterprise web apps · REST API design · Scalable frontend architecture |
+| **Learning** | Advanced Redux · Next.js App Router · Backend architecture design |
+| **Open to** | CMS & SaaS product collaboration |
 
 ---
 
-### 🧰 Languages & Tools  
+## Experience
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-</p>
+| | Role | Focus |
+|---|---|---|
+| **ACI Limited** | Full Stack Software Developer | Enterprise in-house solutions — React, Next.js, Django, MySQL, MS SQL |
+| **Grameen HealthTech Ltd** | Software Developer | **Shukhee** — digital health platform, frontend & API integration |
 
 ---
 
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-⭐ **“Code. Create. Inspire.”**  
+## Featured Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Shukhee** | Digital health platform — appointments, records, telemedicine | React · REST API |
+| *Project name* | *One line on the problem it solves* | *Stack* |
+| *Project name* | *One line on the problem it solves* | *Stack* |
+
+> Replace the placeholder rows with two repos you're proud of, then pin them on your profile.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rakib-cloud&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-cloud&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages"/>
+
+<img width="80%" src="https://streak-stats.demolab.com/?user=Rakib-cloud&hide_border=true&theme=tokyonight" alt="streak"/>
+
+</div>
+
+---
+
+## Let's Talk
+
+Happy to chat about **React architecture, Tailwind, API design, Django, or taking a SaaS idea from sketch to shipped**.
+
+- 🌐 **Portfolio** — [rakibulislambabu.netlify.app](https://rakibulislambabu.netlify.app/)
+- 💼 **LinkedIn** — [rakibul-islam-69a932173](https://www.linkedin.com/in/rakibul-islam-69a932173/)
+- 📫 **Email** — [rakib.cse.uiu@gmail.com](mailto:rakib.cse.uiu@gmail.com)
+
+<div align="center">
+
+<br/>
+
+**Code. Create. Inspire.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
