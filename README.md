@@ -118,20 +118,42 @@ attendance, results and class scheduling.</sub></td></tr>
 ## 🚀 Selected Work
 
 <details open>
-<summary><b>🏢 ACI Limited</b> — Enterprise Systems</summary>
+<summary><b>🏢 ACI Limited</b> — Enterprise Systems & Digital Transformation</summary>
 <br/>
 
 | Project | Description | Stack |
 |---|---|---|
-| **ACI Motors Foton Dealer Management** | Complete farm-mechanization solution for the Foton dealership network — scalable dealer management portal | `Django` `MS SQL` |
-| **ACI Blood Bank Management** | In-house system for blood donation tracking, inventory management and donor coordination | `Django` `FastAPI` |
-| **Project Monitor** | Internal project monitoring — management, resource allocation and progress tracking | `Django` `MySQL` |
+| **Sereno Levande** | AI-powered real estate platform for property booking, rentals, buying, selling, and investment opportunities. | `Next.js` `Django REST Framework` `PostgreSQL` `AWS` |
+| **Business Dashboard — ACI Motors** | Centralized business intelligence dashboard for monitoring business performance and supporting data-driven decisions across multiple business units. | `Next.js` `Django REST Framework` `MS SQL Server` `Docker` |
+| **ACI Shrimp Factory Management System** | End-to-end ERP solution covering production, inventory, quality control, labor management, financial operations, and reporting across 11 core modules. | `Next.js` `Tailwind CSS` `Django` `MS SQL Server` |
+| **Sonalika Dashboard — ACI Motors** | Enterprise dashboard for dealer management, products, incentives, requisitions, approvals, customers, sales, and reporting. | `Vue.js` `Django REST Framework` `MS SQL Server` |
+| **FOTON Dealer Management System** | Dealer management platform with role-based permissions, budgeting, bulk uploads, sales tracking, agent management, promotions, and dealer dashboards. | `Next.js` `Tailwind CSS` `Django` `MS SQL Server` |
+| **Sereno CRM** | Centralized CRM platform supporting sales operations and customer relationship management for ACI Properties. | `Next.js` `Django` `PostgreSQL` |
+| **ACI Admin Service Platform** | Centralized digital platform for streamlining administrative services and workflows across the ACI Group. | `Next.js` `Django REST Framework` `PostgreSQL` |
+| **ACI Blood Bank Management** | Blood management platform supporting donor coordination, blood inventory tracking, and blood donation management, with a public-facing website. | `Django` `FastAPI` |
+| **Project Monitor** | Internal project monitoring system for project management, resource allocation, progress tracking, and reporting. | `Django` `MySQL` |
 
-<sub>⚠️ These are internal systems on a private company network — no public links.</sub>
+<sub>⚠️ Some projects are internal enterprise systems hosted on private company infrastructure and do not have public source-code links.</sub>
 
 </details>
 
-<details open>
+---
+
+### 🛠️ Core Technologies
+
+`React` `Next.js` `Vue.js` `TypeScript` `Tailwind CSS` `Python` `Django` `Django REST Framework` `FastAPI` `PostgreSQL` `MS SQL Server` `MySQL` `Docker` `AWS` `GitHub Actions` `CI/CD`
+
+### 💡 Areas of Expertise
+
+- Enterprise application development
+- Full-stack web application development
+- ERP and business management systems
+- AI-powered search and recommendation systems
+- REST API design and backend development
+- Database design and optimization
+- Cloud deployment and CI/CD automation
+- Role-based access control and workflow automation
+
 <summary><b>🏥 Grameen HealthTech</b> — Healthcare Platforms</summary>
 <br/>
 
